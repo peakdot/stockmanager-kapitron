@@ -1,15 +1,23 @@
 <?php
 
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-	$name = test_input($_POST["name"]);
-	$email = test_input($_POST["email"]);
-	$password = test_input($_POST["password"]);
-	$mobile = test_input($_POST["mobile"]);
+if (!$_SERVER["REQUEST_METHOD"] == "POST") {
+	die("Incorrect input");
 }
+
+$type = test_input($_POST["type"]);
 
 require("dbinfo.php");
 
 $conn = new mysqli($servername, $username, $pw, $dbname);
+
+if ($conn->connect_error) {
+	//Replace
+	die("Connection failed: " . $conn->connect_error);
+} 
+
+function insertStock($data){
+	
+}
 
 function test_input($data) {
 	$data = trim($data);
