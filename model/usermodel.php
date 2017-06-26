@@ -1,9 +1,10 @@
 <?php
 
 echo "Initialized";
+require("test_input.php");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-	$type = test_input($_POST["type"]);
+	$type = test_input("type");
 	echo $type;
 	if($type == '1') {
 		insertUser();
@@ -24,12 +25,12 @@ $conn = new mysqli($servername, $username, $pw, $dbname);
 initcon($conn);
 
 function insertUser(){
-	$name = test_input($_POST["name"]);
-	$email = test_input($_POST["email"]);
-	$password = test_input($_POST["password"]);
-	$mobile = test_input($_POST["mobile"]);
+	$name = test_input("name");
+	$email = test_input("email");
+	$password = test_input("password");
+	$mobile = test_input("mobile");
 	//Replace
-	$stmt = $conn->prepare("INSERT INTO users (email, name, password ) VALUES (?, ?, ?)");
+	$stmt = $conn->prepare("INSERT INTO users (email, name, password) VALUES (?, ?, ?)");
 	$stmt->bind_param("sss", $email, $name, $password);
 	if ($stmt->execute() === TRUE) {
 		//Inserted
@@ -41,11 +42,11 @@ function insertUser(){
 }
 
 function editUser(){
-	$name = test_input($_POST["name"]);
+	$name = test_input("name");
 	echo "Success: ".$name;
 }
 
-function initcon($conn){
+function initcon($conn) {
 	if ($conn->connect_error) {
 	//Replace
 		die("Connection failed: " . $conn->connect_error);
@@ -55,13 +56,6 @@ function initcon($conn){
 	//Replace
 		die("Error loading character set utf8: ".$mysqli->error);
 	} 
-}
-
-function test_input($data) {
-	$data = trim($data);
-	$data = stripslashes($data);
-	$data = htmlspecialchars($data);
-	return $data;
 }
 
 ?>
