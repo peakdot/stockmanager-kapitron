@@ -1,0 +1,30 @@
+body
+{
+	width:90%;
+	margin:auto;
+	margin-top:10px;
+}
+header
+{
+	width: 100%;
+	clear: left;
+	clear:bottom;
+	clear: top;
+	clear: right;
+}
+header img.user
+{
+	height:67px;
+	float:right;
+	margin-right:50px;
+}
+section article p.header
+{
+	font-size:20px;
+	font-weight: bold;
+}
+article 
+{
+	margin: 20px;
+	margin-left:0px;
+}
