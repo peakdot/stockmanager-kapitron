@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> Бүртгэлийн систем </title>
+    <link rel="icon" href="pictures/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/basicUser.css">
+</head>
+
+<body>
+    <header>
+        <img src="pictures/logo_mn.png">
+        <a href="userInformation.html">
+            <img src="pictures/user.png" class="subimg">
+        </a>
+        <a href="#">
+            <img src="pictures/pcs.jpg" class="subimg">
+        </a>
+    </header>
+    <nav>
+        <ul>
+        </ul>
+    </nav>
+
+    <section>
+        <article>
+            <img src="pictures/pc.png">
+            <label> <br> A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <label> <br> A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <label> <br> A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <label> <br> A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <label> <br> A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <label> <br> A brief information of a record </label>
+        </article>
+        <a href="addRecord.html">
+            <button> Бүртгэл нэмэх </button>
+        </a>
+        <a href="deleteRecord.html">
+            <button> Бүртгэл устгах </button>
+        </a>
+    </section>
+</body>
+<script type="text/javascript" src="js/jquery-3.2.1.js"> </script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script>
+    //Retrieving stock type data
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var categories = JSON.parse(this.responseText);
+            buildMenu(categories);
+        }
+    };
+    xhttp.open("GET", "../model/stockviewmodel.php?t=0", true);
+    xhttp.send();
+</script>
+</html>

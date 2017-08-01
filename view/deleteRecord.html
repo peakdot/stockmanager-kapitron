@@ -1,66 +1,74 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-	<title> Бүртгэлийн систем </title>
-	<link rel="icon" href="pictures/favicon.ico" type="image/x-icon" />
-	<link rel="stylesheet" href = "css/basicUser.css">
+    <meta charset="UTF-8">
+    <title> Бүртгэлийн систем </title>
+    <link rel="icon" href="pictures/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/basicUser.css">
 </head>
+
 <body>
-	<header>
-	<img src = "pictures/logo_mn.png">
-	<a href = "userInformation.html">
-		<img src = "pictures/user.png" class="user">
-	</a>
-	<a href = "basicUser.html">
-	<img src = "pictures/pcs.jpg" class="user">
-	</a>
-	</header>
-	<aside>
-		<h3> Categories </h3>
-		<br>
-		<label> Category 1 </label>
-		<br>
-		<label> Category 2 </label>
-		<br>
-		<label> Category 3 </label>
-		<br>
-		<label> Category 4 </label>
-	</aside>
-	
-	<section>
-	<article>	
-	<img src="pictures/pc.png" >
-	<br>
-	<input type = "checkbox">
-	<label>  A brief information of a record </label>
-	</article>
-	<article>	
-	<img src="pictures/pc.png" >
-	<br>
-	<input type = "checkbox">
-	<label>  A brief information of a record </label>
-	</article>
-	<article>	
-	<img src="pictures/pc.png" >
-	<br>
-	<input type = "checkbox">
-	<label>  A brief information of a record </label>
-	</article>
-	<article>	
-	<img src="pictures/pc.png" >
-	<br>
-	<input type = "checkbox">
-	<label>  A brief information of a record </label>
-	</article>
-	<article>	
-	<img src="pictures/pc.png" >
-	<br>
-	<input type = "checkbox">
-	<label>  A brief information of a record </label>
-	</article>
-		<button> Устгах	 </button>
-		<button> Актлах	 </button>
-	</section>
+    <header>
+        <img src="pictures/logo_mn.png">
+        <a href="userInformation.html">
+            <img src="pictures/user.png" class="subimg">
+        </a>
+        <a href="basicUser.html">
+            <img src="pictures/pcs.jpg" class="subimg">
+        </a>
+    </header>
+    <nav>
+        <ul>
+
+        </ul>
+    </nav>
+    <section>
+        <article>
+            <img src="pictures/pc.png">
+            <br>
+            <input type="checkbox">
+            <label>  A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <br>
+            <input type="checkbox">
+            <label>  A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <br>
+            <input type="checkbox">
+            <label>  A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <br>
+            <input type="checkbox">
+            <label>  A brief information of a record </label>
+        </article>
+        <article>
+            <img src="pictures/pc.png">
+            <br>
+            <input type="checkbox">
+            <label>  A brief information of a record </label>
+        </article>
+        <button> Устгах	 </button>
+        <button> Актлах	 </button>
+    </section>
 </body>
+<script type="text/javascript" src="js/jquery-3.2.1.js"> </script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script>
+    //Retrieving stock type data
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            var categories = JSON.parse(this.responseText);
+            buildMenu(categories);
+        }
+    };
+    xhttp.open("GET", "../model/stockviewmodel.php?t=0", true);
+    xhttp.send();
+</script>
 </html>

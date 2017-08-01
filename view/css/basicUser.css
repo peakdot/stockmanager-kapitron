@@ -1,55 +1,71 @@
-body
-{
-	width:90%;
-	margin:auto;
-	margin-top:10px;
+body {
+    background-color: lightgrey;
+    margin: 0px;
 }
-header
-{
-	width: 100%;
-	clear: left;
-	clear:bottom;
-	clear: top;
-	clear: right;
+
+header {
+    width: 1100px;
+    margin: auto;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
 }
-header img.user
-{
-	height:67px;
-	float:right;
-	margin-right:50px;
+
+header img {
+    height: 66px;
+    padding: 15px;
+    margin: 5px;
 }
-aside
-{
-	border: 3px solid #ec3137;
-	width: 15%;
-	height:100%;	
-	border-radius:25px;
-	height:80%;
-	margin:1%;
-	padding-left: 1%;
-	padding-bottom: 2%;
-	padding-top:1%;
-	float:left;
+
+header img.subimg {
+    float: right;
 }
-aside label
-{
-	color: #3a4993;
+
+nav {
+    background-color: white;
+    width: 1100px;
+    margin: auto;
+    margin-top: 0px;
 }
-aside h3
-{
-	padding:0px;
-	margin: 0px;
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+    background-color: #d7272a;
+    width: 98%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+nav ul li {
+    float: left;
+    padding: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.7em;
+    line-height: 21px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+nav ul li a:hover {
+    background-color: #ac1b1f;
+    overflow: hidden;
 }
 section
 {
-	width:78%;
-	border-radius: 25px;
-	border: 3px solid #3a4993;
-	margin:auto;
-	margin-top: 1%;
-	margin-right: 1%;
-	padding: 0.5%;
-	float:left;
+    width: 1100px;
+	margin: auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    background-color: white;
+    padding-top: 10px;
 }
 section img
 {
@@ -73,8 +89,7 @@ section p
 }
 section article
 {
-	border: 2px solid #3a4993;
-	border-radius: 25px;
+	border-bottom: 1px solid rgba(0,0,0,0.56);
 	padding: 10px;
 	height:50px;
 	margin-bottom:5px;
@@ -100,4 +115,4 @@ button
 {
 	float: right;
 	margin: 5px;
-	
+}

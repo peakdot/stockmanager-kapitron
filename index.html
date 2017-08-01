@@ -1,29 +1,32 @@
 <!DOCTYPE html>
-<htmл>
+<html>
 	 <head>
-	 	<meta charset="utf-8">
-		<title> Бүртгэлийн систем </title>
-		<link rel="icon" href="view/pictures/favicon.ico" type="image/x-icon" />
-		<link rel="stylesheet" href = "view/css/style.css">
-	 </head>
-	 <body>
-		<header>
-			<img src="view/pictures/logo_mn.png"/>
-		</header>
-		<article>
-			<form action="view/basicUser.html">
-			<label> Төрөл: </label>
-			<select>
+    <title> Бүртгэлийн систем </title>
+    <link rel="icon" href="view/pictures/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="view/css/style.css">
+    <meta charset="utf-8">
+    <script src="view/js/index.js">
+    </script>
+</head>
+
+<body>
+    <header>
+        <img src="view/pictures/logo_mn.png" />
+    </header>
+    <article>
+        <form action="javascript:chooser();">
+            <label> Төрөл: </label>
+            <select id="userChooser">
 				<option value = "sAdmin"> Супер админ</option> 
-				<option value = "admin"> Админ</option>
-				<option value = "user"> Хэрэглэгч</option>
+            <option value = "admin"> Админ</option>
+				<option value = "basicUser"> Хэрэглэгч</option>
 			</select>
-			<label> Нэвтрэх нэр: </label>
-			<input type="text" value="" >
-			<label> Нууц үг: </label>
-			<input type="text" value="">
-			<input type="submit" value="Нэвтрэх">
-			</form>
-		</article>
-	 </body>
-</hmtl>
+            <label> Нэвтрэх нэр: </label>
+            <input type="text" value="">
+            <label> Нууц үг: </label>
+            <input type="text" value="">
+            <input type="submit" value="Нэвтрэх">
+        </form>
+    </article>
+</body>
+</html>

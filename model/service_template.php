@@ -8,4 +8,10 @@ if($result = $conn->query("SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES	WHER
 		}
 	}
 }
+/*
+SELECT stock_attrs._name, ext.COLUMN_NAME, ext.DATA_TYPE, ext.CHARACTER_MAXIMUM_LENGTH FROM stock_attrs INNER JOIN (SELECT COLUMN_NAME, DATA_TYPE, CHARACTER_MAXIMUM_LENGTH 
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE 
+     TABLE_NAME = 'stock_1') as ext ON stock_attrs._columnname = ext.COLUMN_NAME WHERE stock_attrs.id=1
+     */
 ?>

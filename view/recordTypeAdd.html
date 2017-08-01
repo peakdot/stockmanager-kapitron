@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Бүртгэл нэмэх</title>
+	<link rel="icon" href="pictures/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="css/recordTypeAdd.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+	<header>
+		<img src="pictures/logo_mn.png">
+		<a href="userInformation.html">
+			<img src="pictures/user.png" class="subimg">
+		</a>
+		<a href="basicUser.html">
+			<img src="pictures/pcs.jpg" class="subimg">
+		</a>
+	</header>
+	<nav>
+		<ul>
+		</ul>
+	</nav>
+	<form action="../model/stockmodel.php" accept-charset="utf-8" method="post">
+		<input type="hidden" name="type" value="0">
+		<section id="mySection">
+			<article class="tableName">
+				<h3>Хүснэгтийн нэр</h3>
+				<input type="text" name="stock_name">
+				<input id="data_number" type="hidden" name="data_number" value="1">
+			</article>
+			<article>
+				<p class="header">Багана 1</p>
+				<p>Баганы нэр</p>
+				<input type="text" name="data_name_1">
+				<p>Баганы төрөл</p>
+				<select name="data_type_1">
+					<option value="0">Тоо(int)</option>
+					<option value="1">Тогтмол урттай тэмдэгт(char)</option>
+					<option value="2">Хувьсах урттай тэмдэгт(varchar)</option>
+					<option value="3">Он сар өдөр(date)</option>
+				</select>
+				<p>Баганы өгөгдлийн урт</p>
+				<input type="number" name="data_length_1">
+				<br>
+				<input type="checkbox" name="data_notnull_1">
+				<label for="data_notnull_1">Хоосон байж болох эсэх/NOT NULL/</label>
+			</article>
+		</section>
+		<article class="buttons">
+			<input type="submit" value="Нэмэх">
+			<button type="button" onclick="myFunction()"> Багана нэмэх </button>
+		</article>
+	</form>
+</body>
+<script type="text/javascript" src="js/jquery-3.2.1.js"> </script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script src="js/recordTypeAdd.js"></script>
+<script>
+    //Retrieving stock type data
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+    	if (this.readyState == 4 && this.status == 200) {
+    		var categories = JSON.parse(this.responseText);
+    		buildMenu(categories);
+    	}
+    };
+    xhttp.open("GET", "../model/stockviewmodel.php?t=0", true);
+    xhttp.send();
+</script>
+</html>

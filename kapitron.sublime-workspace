@@ -1,0 +1,1338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stock_attr",
+				"stock_attr_cell"
+			],
+			[
+				"stock_att",
+				"stock_attr_value"
+			],
+			[
+				"row",
+				"rowCol"
+			],
+			[
+				"obj",
+				"objWorksheet"
+			],
+			[
+				"temp",
+				"tempcol"
+			],
+			[
+				"hig",
+				"highestColumnIndex"
+			],
+			[
+				"stock_name",
+				"stock_name_row"
+			],
+			[
+				"c",
+				"cell"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"stock_",
+				"stock_attrs"
+			],
+			[
+				"stock",
+				"stock_attrs"
+			],
+			[
+				"data",
+				"data_types"
+			],
+			[
+				"table",
+				"tablename"
+			],
+			[
+				"_data",
+				"_datalength"
+			],
+			[
+				"query",
+				"query2"
+			],
+			[
+				"input",
+				"input_text"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"modal",
+				"modal-trigger"
+			],
+			[
+				"clic",
+				"clicked_obj"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border-bott",
+				"border-bottom"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"paren",
+				"parent2nd"
+			],
+			[
+				"job-img-upload",
+				"job-img-upload-button"
+			],
+			[
+				"paddig",
+				"padding-top"
+			],
+			[
+				"email",
+				"email1"
+			],
+			[
+				"close",
+				"close_modal"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"border-bot",
+				"border-bottom-style"
+			],
+			[
+				"act",
+				"activeind"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"overf",
+				"overflow-x"
+			],
+			[
+				"overl",
+				"overflow-x"
+			],
+			[
+				"offset",
+				"offset_left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"menu",
+				"menu_content"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"column",
+				"columnstring"
+			],
+			[
+				"data_len",
+				"data_length"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"new",
+				"newMarkers"
+			],
+			[
+				"lat",
+				"latLng"
+			],
+			[
+				"setall",
+				"setallfilterMarkers"
+			],
+			[
+				"wtime",
+				"wtimeEnd"
+			],
+			[
+				"filter",
+				"filterstatus"
+			],
+			[
+				"cur",
+				"currtptimeend"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fsalary",
+				"fsalarymax"
+			],
+			[
+				"time",
+				"timepicker"
+			],
+			[
+				"tp-tim",
+				"tp-time1"
+			],
+			[
+				"timepincir",
+				"timepincircle1"
+			],
+			[
+				"ta",
+				"transform"
+			],
+			[
+				"drop",
+				"droptarget"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"seta",
+				"setAttribute"
+			],
+			[
+				"jobimgs",
+				"jobimgs"
+			],
+			[
+				"job",
+				"jobimgs"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"e",
+				"enctype\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"header",
+				"headerloc"
+			],
+			[
+				"image",
+				"imageFileType"
+			],
+			[
+				"targe",
+				"target_file_name"
+			],
+			[
+				"create",
+				"createNameforImage"
+			],
+			[
+				"materialbox",
+				"materialboxactive"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"studn",
+				"students"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"xm",
+				"xmlhttp"
+			],
+			[
+				"getElementBy",
+				"getElementByTagName"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"wtim",
+				"wtimeEnd"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"target_",
+				"target_file"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"high",
+				"highlighted"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pass",
+				"passwords"
+			],
+			[
+				"men",
+				"menuWidth"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"swipe",
+				"swipeLeft"
+			],
+			[
+				"drag",
+				"dragTarget"
+			],
+			[
+				"siden",
+				"sideNavTrigg"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wt",
+				"wtimeEnd"
+			],
+			[
+				"wti",
+				"wtimeEnd"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bakcg",
+				"background-image"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"Salary",
+				"SalaryMin"
+			],
+			[
+				"true",
+				"TRUE"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tue",
+				"tue"
+			],
+			[
+				"Salar",
+				"SalaryMax"
+			],
+			[
+				"created",
+				"createdBy"
+			],
+			[
+				"location",
+				"locationDescriber"
+			],
+			[
+				"loca",
+				"locationNumber"
+			],
+			[
+				"setal",
+				"setallNewMarkers"
+			],
+			[
+				"material",
+				"material-icons"
+			],
+			[
+				"done",
+				"doneButton"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "view/addRecord.html",
+			"settings":
+			{
+				"buffer_size": 1321,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view/recordTypeAdd.html",
+			"settings":
+			{
+				"buffer_size": 2216,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/stockmodel.php",
+			"settings":
+			{
+				"buffer_size": 12123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/stockviewmodel.php",
+			"settings":
+			{
+				"buffer_size": 2566,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/test.php",
+			"settings":
+			{
+				"buffer_size": 1767,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "s"
+			}
+		},
+		{
+			"file": "model/file_test.php",
+			"settings":
+			{
+				"buffer_size": 336,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<htm"
+			}
+		},
+		{
+			"file": "model/test_input.php",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/service_template.php",
+			"settings":
+			{
+				"buffer_size": 655,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/usermodel.php",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Snippet: Get Elements"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/NextStep/index.php",
+		"/C/wamp64/www/kapitron/hddocs/PHPExcel.php",
+		"/C/wamp64/www/kapitron/view/js/menu.js",
+		"/C/wamp64/www/kapitron/model/service_template.php",
+		"/C/wamp64/www/kapitron/model/conn.php",
+		"/C/wamp64/www/kapitron/model/dbinfo.php",
+		"/C/wamp64/www/kapitron/view/userInformation.html",
+		"/C/wamp64/www/kapitron/view/sAdmin.html",
+		"/C/wamp64/www/kapitron/view/deleteRecord.html",
+		"/C/wamp64/www/kapitron/view/admin.html",
+		"/C/wamp64/www/kapitron/view/recordTypeAdd.html",
+		"/C/wamp64/www/kapitron/view/basicUser.html",
+		"/C/wamp64/www/kapitron/view/addRecord.html",
+		"/C/wamp64/www/kapitron/view/js/addRecord.js",
+		"/C/wamp64/www/kapitron/model/stockviewmodel.php",
+		"/C/wamp64/www/kapitron/model/stockmodel.php",
+		"/C/wamp64/www/kapitron/model/test_input.php",
+		"/C/wamp64/www/kapitron/model/usermodel.php",
+		"/C/wamp64/www/kapitron/web/web/view/js/addRecord.js",
+		"/C/wamp64/www/kapitron/web/web/view/addRecord.html",
+		"/C/wamp64/www/kapitron/view/recordAdd.html",
+		"/C/wamp64/www/kapitron/index.html",
+		"/C/wamp64/www/NextStepNew/css/nextstep.css",
+		"/C/wamp64/www/NextStep/query/nextstep.sql",
+		"/C/wamp64/www/kapitron/index.php",
+		"/C/wamp64/www/NextStepNew/css/filter.css",
+		"/C/wamp64/www/NextStepNew/js/filter.js",
+		"/C/wamp64/www/NextStepNew/js/map.js",
+		"/C/wamp64/www/NextStepNew/js/ns.js",
+		"/C/wamp64/www/NextStepNew/index.php",
+		"/C/wamp64/www/NextStepNew/css/nswatch.css",
+		"/C/wamp64/www/NextStepNew/watch.php",
+		"/C/wamp64/www/LetsGo/css/wycd.css",
+		"/C/wamp64/www/WhatYouCanDo/index.php",
+		"/C/wamp64/www/LetsGo/js/map.js",
+		"/C/wamp64/www/LetsGo/js/model.js",
+		"/C/wamp64/www/WhatYouCanDo/css/wycd.css",
+		"/C/wamp64/www/WhatYouCanDo/js/model.js",
+		"/C/wamp64/www/LetsGo/js/wycd.js",
+		"/C/wamp64/www/LetsGo/index.php",
+		"/C/wamp64/www/NextStep/js/map.js",
+		"/C/wamp64/www/WhatYouCanDo/js/wycd.js",
+		"/C/wamp64/www/WhatYouCanDo/js/map.js",
+		"/C/wamp64/www/NextStep/css/nextstep.css",
+		"/C/wamp64/www/NextStep/js/filter.js",
+		"/D/My Document/Orgio/Web Technology/Lab3/css/main.css",
+		"/C/wamp64/www/NextStep/js/materialize.js",
+		"/C/wamp64/www/NextStepNew/list.php",
+		"/C/wamp64/www/NextStep/css/materialize.css",
+		"/C/wamp64/www/NextStep/regEmployer.php",
+		"/C/wamp64/www/kapitron/model/service_template",
+		"/D/My Document/Orgio/Web Technology/Lab3/index.html",
+		"/C/wamp64/www/NextStep/regJob.php",
+		"/C/wamp64/www/NextStep/regEmployee.php",
+		"/C/wamp64/www/NextStep/regCompany.php",
+		"/C/wamp64/www/NextStep/multipleImageUploadertest.php",
+		"/C/wamp64/www/NextStep/multipleImageUploader.php",
+		"/C/wamp64/www/NextStep/logout.php",
+		"/C/wamp64/www/NextStep/login.php",
+		"/C/wamp64/www/NextStep/jobimgs.php",
+		"/C/wamp64/www/NextStep/getRegForm.php",
+		"/C/wamp64/www/NextStep/genLocXML.php",
+		"/C/wamp64/www/NextStep/feedback.php",
+		"/C/wamp64/www/NextStep/dbinfo.php",
+		"/C/wamp64/www/NextStep/uploadimg.php",
+		"/C/wamp64/www/kapitron/dbinfo.php",
+		"/C/Users/METEOR/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/METEOR/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/wamp64/bin/mysql/mysql5.7.11/my.ini",
+		"/C/wamp64/www/TestNextStep/filter.php",
+		"/C/wamp64/www/NextStep/css/filter.css",
+		"/C/wamp64/www/TestGitForNS/multipleImageUploadertest.php",
+		"/C/wamp64/www/TestNextStep/timepicker.css",
+		"/C/wamp64/www/TestNextStep/timepicker.html",
+		"/D/My Document/Orgio/Web Technology/Lab2/ex1.html",
+		"/C/Users/METEOR/Desktop/regEmployer.pseudo",
+		"/C/wamp64/www/TestGitForNS/feedback.php",
+		"/C/wamp64/www/TestNextStep/css/nouislider.css",
+		"/C/wamp64/www/TestNextStep/filter.css",
+		"/C/Users/METEOR/Desktop/bootstrap-material-datetimepicker-gh-pages/index.html",
+		"/C/wamp64/www/TestNextStep/styleweek.html",
+		"/C/Users/METEOR/Desktop/bootstrap-material-datetimepicker-gh-pages/css/bootstrap-material-datetimepicker.css",
+		"/C/Users/METEOR/Desktop/bootstrap-material-datetimepicker-gh-pages/js/bootstrap-material-datetimepicker.js",
+		"/C/Users/METEOR/Desktop/bootstrap-material-datetimepicker-gh-pages/bower.json",
+		"/C/wamp64/www/TestNextStep/styleweek.css",
+		"/D/My Document/Orgio/NextStep/NextStepFreehosting/index.php",
+		"/C/Users/METEOR/Desktop/Test/Test.html",
+		"/C/Users/METEOR/Desktop/5Way/5wayscustomizeinfowindow/js/map.js",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab3/ex6.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab3/css/ex6.css",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab1/index.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab4 & Bootstrap/Ex3.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab4 & Bootstrap/ex2.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab4 & Bootstrap/examlple3.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab5 Javascript/ex1.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab5 Javascript/ex2.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab5 Javascript/ex3.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab6 DOM/ex5.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab6 DOM/index.html",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab13/css/ex1.css",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab13/css/ex2.css",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab13/ex2.xml",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab13/ex1.xml",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab13/ex2.html",
+		"/C/wamp64/www/Genius/ex2.xml",
+		"/C/Users/METEOR/Desktop/Web Technology/Lab10/MongolTalent.html",
+		"/C/wamp64/www/Jakal/index.php",
+		"/C/wamp64/www/Jakal/result.php",
+		"/C/wamp64/www/Jakal/submit.php",
+		"/C/wamp64/www/Genius/submit.php",
+		"/C/wamp64/www/Genius/index.php",
+		"/C/Users/METEOR/Desktop/New folder/index.php",
+		"/C/Users/METEOR/Desktop/New folder/css/skeleton.css",
+		"/C/Users/METEOR/Desktop/New folder/css/normalize.css",
+		"/C/Users/METEOR/Desktop/New folder/css/app.css",
+		"/C/wamp64/www/NextStep/materialicon/material-icons.css",
+		"/C/Users/METEOR/Desktop/Track Submit _ MrSuicideSheep.html",
+		"/C/Users/METEOR/Desktop/New folder/js/jquery.min.js",
+		"/C/Users/METEOR/Desktop/jquery.min.js",
+		"/C/Users/METEOR/Desktop/New folder/js/jquery.form.min.js",
+		"/C/wamp64/www/Jakal/css/materialize.css",
+		"/C/wamp64/www/Jakal/success.html",
+		"/C/Users/METEOR/Desktop/Jakal/index.php",
+		"/C/Users/METEOR/Desktop/Jakal/submit.php",
+		"/C/Users/METEOR/Desktop/Jakal/css/main.css",
+		"/C/Users/METEOR/Desktop/materialize/css/materialize.css",
+		"/C/Users/METEOR/Desktop/Jakal/main.css",
+		"/C/wamp64/www/NextStep/php.ini"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stock_attr",
+			"getFile",
+			"getStockData",
+			"getStockDataFromUser",
+			"recieve",
+			"\t[",
+			"test_input_ex",
+			"GET",
+			"data",
+			"data_notnull",
+			"{\n",
+			"form",
+			"section",
+			"execute",
+			"data_name",
+			"\"",
+			"2",
+			"1",
+			"initialize",
+			"loginimg",
+			"head",
+			"img",
+			"modal",
+			"transform",
+			"\")",
+			"\",\"",
+			"modal.css(\"",
+			"border-radius",
+			"nav",
+			"nav-item",
+			"close_menu",
+			"open_menu",
+			"close-modal",
+			"modal",
+			"100px",
+			"img-upload-",
+			"img-upload",
+			"file",
+			"input",
+			"Нэвтр",
+			"нэвтрэх",
+			"\");\n",
+			"#D50000",
+			"body",
+			"009688",
+			"m",
+			".col",
+			"input-field",
+			"info-item",
+			".input-field",
+			"i",
+			".col-m",
+			"66px",
+			" 100 100",
+			"class = \"unselectable\"",
+			"info",
+			"head",
+			"main",
+			".modal",
+			"subtitle",
+			"subheader",
+			"\"></",
+			"header",
+			" ease-out",
+			"});\n",
+			"menu",
+			"transf",
+			"modal",
+			"login",
+			"modal",
+			"loginimg",
+			"id",
+			"onclick=\"setclock(",
+			"floating-buttons",
+			"fweekday",
+			"fweekinfo",
+			"filter",
+			"\n.modal .header .headimg{\n\toverflow: hidden;\n\theight: 150px;\n\twidth: 100%;\n}",
+			"overlay",
+			"%;\n",
+			" .",
+			"\" ,\"",
+			"menu_content.css(\"",
+			"active",
+			"transitionend",
+			"#009688",
+			"pt",
+			"px",
+			".$data_notnull",
+			"data->",
+			"Newmarker",
+			"addto",
+			"getfilterpa",
+			"addtojobMarker",
+			"markers",
+			"\t",
+			";",
+			"$",
+			"200px",
+			">\n",
+			"side",
+			"sidePanelItem",
+			"sidepanelitem",
+			"clockstart",
+			"ClockStart",
+			")';",
+			"droptarget",
+			"scrollYOffset",
+			"activates.css",
+			"dropdown",
+			"modal",
+			"$('.modal').modal();",
+			"mon",
+			".style.backgroundColor = ",
+			".style.color = ",
+			"?",
+			"jobpro",
+			"jobID",
+			"jobImgs",
+			"downloadUrl",
+			"carousel",
+			"downloadUrl",
+			"update",
+			">\n",
+			"C",
+			"\"C",
+			"\"C\"",
+			"C"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"getFileFromUser",
+			"test_input_ex_post",
+			"POST",
+			"input",
+			"section",
+			"'",
+			"1",
+			"0",
+			"",
+			":",
+			"",
+			":",
+			"",
+			"close-modal-button",
+			"120px",
+			"#03A9F4",
+			"D50000",
+			"s",
+			".col-m",
+			".col",
+			" 150 150",
+			"class = \"unselectable\" onclick=\"setclock(24,'insert-job')\"",
+			"insert-job",
+			".modal .body",
+			"subheader",
+			"subtitle",
+			"",
+			"weekday",
+			"weekinfo",
+			":",
+			"",
+			"px",
+			"pt",
+			"",
+			"allmarkers",
+			"",
+			"clockstart",
+			".css(\"background-color\",",
+			".css(\"color\",",
+			"options.menuWidth",
+			"'",
+			"markerf.png",
+			"return ",
+			"markersXML",
+			"",
+			"COOKIE",
+			"name",
+			"lname",
+			"fname",
+			"\\\"",
+			"",
+			"text",
+			"\\\"",
+			"&quot;",
+			"&quot",
+			"&quot;",
+			"&quot"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "view/addRecord.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "view/recordTypeAdd.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								397,
+								397
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "model/stockmodel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3722,
+								3722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "model/stockviewmodel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "model/test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1529,
+								1529
+							]
+						],
+						"settings":
+						{
+							"auto_name": "s",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "model/file_test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<htm",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "model/test_input.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1089,
+								1089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "model/service_template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "model/usermodel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kapitron.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

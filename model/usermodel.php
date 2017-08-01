@@ -24,6 +24,10 @@ $conn = new mysqli($servername, $username, $pw, $dbname);
 
 initcon($conn);
 
+function login(){
+	
+}
+
 function insertUser(){
 	$name = test_input("name");
 	$email = test_input("email");

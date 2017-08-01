@@ -1,0 +1,122 @@
+body {
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+header {
+    width: 100%;
+    clear: left;
+    clear: bottom;
+    clear: top;
+    clear: right;
+}
+
+body {
+    background-color: lightgrey;
+    margin: 0px;
+}
+
+header {
+    width: 1100px;
+    margin: auto;
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+header img {
+    height: 66px;
+    padding: 15px;
+    margin: 5px;
+}
+
+header img.subimg {
+    float: right;
+}
+
+nav {
+    background-color: white;
+    width: 1100px;
+    margin: auto;
+    margin-top: 0px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+    background-color: #d7272a;
+    width: 98%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+nav ul li {
+    float: left;
+    padding: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.7em;
+    line-height: 21px;
+    padding: 20px;
+    overflow: hidden;
+}
+
+nav ul li a:hover {
+    background-color: #ac1b1f;
+    overflow: hidden;
+}
+
+form {
+    width: 1100px;
+    margin: auto;
+    background-color: white;
+}
+
+form h3 {
+    margin: 0px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+section article {
+    padding: 20px;
+}
+
+section article.tableName {
+    padding: 20px;
+    box-shadow: 0px;
+}
+
+section article.tableName input {
+    margin: 5px;
+}
+
+section article p {
+    margin: 5px;
+}
+
+section article p.header {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+article {
+    margin: 5px;
+    padding: 20px;
+    width: 40%;
+    margin: auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+article input.buttons {
+    float: right;
+}
